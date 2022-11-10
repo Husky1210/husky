@@ -1,0 +1,2 @@
+# husky
+just for homework
